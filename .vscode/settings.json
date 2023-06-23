@@ -1,0 +1,9 @@
+{
+    "grammarly.selectors": [
+        {
+            "language": "python",
+            "scheme": "file",
+            "pattern": "python-tkinter/first-program.py"
+        }
+    ]
+}
